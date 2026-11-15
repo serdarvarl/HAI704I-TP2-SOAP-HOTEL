@@ -28,3 +28,20 @@ target/
 .vscode/
 .github/
 *.mov
+
+# Word
+~$*
+*.docx
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Rapor (zip'e ayrıca giriyor, depoda gerekmez)
+VAROL_*.pdf
