@@ -5,7 +5,7 @@
 
 **Université de Montpellier — Master 1 Informatique (parcours ICO) — HAI704I Architectures logicielles distribuées — 2026-2027**
 
-Étudiant : VAROL Serdar (travail individuel, sans binôme)
+Étudiant : VAROL Serdar (travail individuel)
 
 ## 1. Le projet
 
