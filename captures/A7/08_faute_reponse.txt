@@ -1,0 +1,6 @@
+HTTP/1.1 500 Internal Server Error
+Date: Sun, 15 Nov 2026 14:06:45 GMT
+Transfer-encoding: chunked
+Content-type: text/xml; charset=utf-8
+
+<?xml version='1.0' encoding='UTF-8'?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body><S:Fault xmlns:ns4="http://www.w3.org/2003/05/soap-envelope"><faultcode>S:Server</faultcode><faultstring>offre CH-101 indisponible</faultstring><detail><ns2:OffreIndisponible xmlns:ns2="http://hotel.hai704i.umontpellier.fr/"><message>offre CH-101 indisponible</message></ns2:OffreIndisponible></detail></S:Fault></S:Body></S:Envelope>

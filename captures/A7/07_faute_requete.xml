@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+<soapenv:Body>
+<reserver xmlns="http://hotel.hai704i.umontpellier.fr/">
+<reservation xmlns="">
+<idDemande>REQ-A7-002</idDemande>
+<agence>AG-42</agence>
+<secret>secret-42</secret>
+<idOffre>CH-101</idOffre>
+<arrivee>2026-12-10</arrivee>
+<depart>2026-12-13</depart>
+<nom>Dupont</nom>
+<prenom>Marie</prenom>
+<paiement>
+<numeroCarte>4111111111111111</numeroCarte>
+<moisExpiration>12</moisExpiration>
+<anneeExpiration>2030</anneeExpiration>
+<cvc>123</cvc>
+</paiement>
+</reservation>
+</reserver>
+</soapenv:Body>
+</soapenv:Envelope>
