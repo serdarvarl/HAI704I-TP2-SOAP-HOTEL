@@ -43,5 +43,6 @@ target/
 .project
 .settings/
 
-# Rapor (zip'e ayrıca giriyor, depoda gerekmez)
+# 
 VAROL_*.pdf
+*.mp4
